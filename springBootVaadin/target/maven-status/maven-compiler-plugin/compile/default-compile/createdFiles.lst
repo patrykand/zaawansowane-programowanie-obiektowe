@@ -1,0 +1,15 @@
+pl\edu\utp\backend\service\FirmaService.class
+pl\edu\utp\Application.class
+pl\edu\utp\ui\ContactForm$DeleteEvent.class
+pl\edu\utp\ui\ContactForm$ContactFormEvent.class
+pl\edu\utp\ui\ContactForm$SaveEvent.class
+pl\edu\utp\backend\entity\Firma.class
+pl\edu\utp\backend\entity\Kontakt$Status.class
+pl\edu\utp\backend\repository\FirmaRepository.class
+pl\edu\utp\ui\ContactForm$CloseEvent.class
+pl\edu\utp\backend\repository\KontaktRepository.class
+pl\edu\utp\backend\entity\AbstractEntity.class
+pl\edu\utp\backend\service\KontaktService.class
+pl\edu\utp\backend\entity\Kontakt.class
+pl\edu\utp\ui\ContactForm.class
+pl\edu\utp\ui\MainView.class
